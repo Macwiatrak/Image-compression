@@ -1,6 +1,7 @@
 # importing packages
 %matplotlib inline
-import scipy
+import scipy.linalg
+import scipy.misc
 import numpy as np
 
 # defining max nr of iterations
